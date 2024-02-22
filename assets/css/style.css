@@ -182,6 +182,11 @@ h6 {
   font-family: "Poppins", sans-serif;
 }
 
+@media screen and (max-width: 768px) {
+  #header .logo {font-size: 25px;
+}
+}
+
 #header .logo a {
   color: #222222;
 }
